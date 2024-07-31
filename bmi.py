@@ -12,3 +12,5 @@ bmi = np_weight/np_height **2
 print(bmi)
 print (bmi>0.5)
 print([bmi>0.5])
+
+# This is a Function that calculates BMI
